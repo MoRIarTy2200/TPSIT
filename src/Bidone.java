@@ -1,4 +1,6 @@
 
+//test 2
+
 public class Bidone extends Contenitore{
 
   private float altezza;
